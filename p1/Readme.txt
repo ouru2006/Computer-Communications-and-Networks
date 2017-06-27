@@ -1,4 +1,4 @@
-Assitnment 1 Readme
+Assignment 1 Readme
 
 This project includes a Makefile, serve.c, a index.html in temp/www document and a readme.txt.
 
